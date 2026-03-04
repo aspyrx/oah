@@ -1,0 +1,14 @@
+.shortcuts-wdOnN {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.shortcuts-wdOnN > a {
+  margin: 8px 8px;
+  padding: 8px 8px;
+  border: 1px solid;
+  text-decoration: none;
+}
+
+
+/*# sourceMappingURL=777.dbaa4e329c0cfdf340da.css.map*/

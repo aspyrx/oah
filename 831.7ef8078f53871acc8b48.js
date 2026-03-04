@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoah=self.webpackChunkoah||[]).push([[831],{831(e,t,n){n.r(t),n.d(t,{default:()=>u});var l=n(540),a=n(347);function u(){const{pathname:e}=(0,a.zy)();return l.createElement(l.Fragment,null,l.createElement("h1",null,"404 - Not Found"),l.createElement("p",null,"The location"," ",l.createElement("code",null,e)," ","does not exist."))}}}]);
